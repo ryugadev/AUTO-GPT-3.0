@@ -1,0 +1,23 @@
+[0630/211951.554:WARNING:viz_main_impl.cc(85)] VizNullHypothesis is disabled (not a warning)
+[0630/212044.715:WARNING:viz_main_impl.cc(85)] VizNullHypothesis is disabled (not a warning)
+[0630/212351.860:WARNING:viz_main_impl.cc(85)] VizNullHypothesis is disabled (not a warning)
+[0630/212452.131:WARNING:viz_main_impl.cc(85)] VizNullHypothesis is disabled (not a warning)
+[0630/212519.760:WARNING:viz_main_impl.cc(85)] VizNullHypothesis is disabled (not a warning)
+[0630/212622.263:WARNING:viz_main_impl.cc(85)] VizNullHypothesis is disabled (not a warning)
+[0630/212622.264:WARNING:viz_main_impl.cc(85)] VizNullHypothesis is disabled (not a warning)
+[0630/212641.141:WARNING:viz_main_impl.cc(85)] VizNullHypothesis is disabled (not a warning)
+[0630/212726.132:WARNING:viz_main_impl.cc(85)] VizNullHypothesis is disabled (not a warning)
+[0630/212726.142:WARNING:viz_main_impl.cc(85)] VizNullHypothesis is disabled (not a warning)
+[0630/213835.437:WARNING:viz_main_impl.cc(85)] VizNullHypothesis is disabled (not a warning)
+[0630/213835.778:WARNING:viz_main_impl.cc(85)] VizNullHypothesis is disabled (not a warning)
+[0630/213850.936:WARNING:viz_main_impl.cc(85)] VizNullHypothesis is disabled (not a warning)
+[0630/214028.212:WARNING:viz_main_impl.cc(85)] VizNullHypothesis is disabled (not a warning)
+[0630/214028.583:ERROR:shared_image_manager.cc(358)] SharedImageManager::ProduceMemory: Trying to Produce a Memory representation from a non-existent mailbox.
+[0630/214028.584:ERROR:shared_image_manager.cc(358)] SharedImageManager::ProduceMemory: Trying to Produce a Memory representation from a non-existent mailbox.
+[0630/214028.588:ERROR:shared_image_manager.cc(358)] SharedImageManager::ProduceMemory: Trying to Produce a Memory representation from a non-existent mailbox.
+[0630/214057.876:WARNING:viz_main_impl.cc(85)] VizNullHypothesis is disabled (not a warning)
+[0630/214113.508:WARNING:viz_main_impl.cc(85)] VizNullHypothesis is disabled (not a warning)
+[0630/214127.282:WARNING:viz_main_impl.cc(85)] VizNullHypothesis is disabled (not a warning)
+[0630/220058.330:WARNING:viz_main_impl.cc(85)] VizNullHypothesis is disabled (not a warning)
+[0630/220114.845:WARNING:viz_main_impl.cc(85)] VizNullHypothesis is disabled (not a warning)
+[0630/220154.729:WARNING:viz_main_impl.cc(85)] VizNullHypothesis is disabled (not a warning)
